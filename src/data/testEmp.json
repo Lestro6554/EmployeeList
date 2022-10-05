@@ -1,0 +1,22 @@
+{
+    "emps": [
+        {
+            "id": 1,
+            "fio": "Alex Kostin",
+            "position": "Менеджер",
+            "birthdate": null,
+            "gender": null,
+            "isDismissed": false,
+            "isActive": false
+        },
+        {
+            "id": 2,
+            "fio": "Kostin Alex",
+            "position": "Аналитик",
+            "birthdate": "2021-05-02T00:00:00.000Z",
+            "gender": "Женский",
+            "isDismissed": true,
+            "isActive": false
+        }
+    ]
+}
